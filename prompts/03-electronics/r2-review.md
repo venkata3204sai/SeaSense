@@ -1,11 +1,11 @@
-# Stage 3 · Round 2 · Review
+# Stage 3 · Round 2 · Review (freeze)
 
-No separate review notes were recorded for this round: it was a freeze round with no new analysis ("Keep it short; no further analysis").
+No new analysis in this round. We checked that the frozen files match our
+decisions: P-1 to P-4 approved, stirrer removed, R-20b defined at a 20-minute
+interval (≈24 % margin in the estimate), CR-05 and R-37 in requirements-v1.2,
+and the three MTC assumptions listed.
 
-## Outcome (from the frozen files)
-- **Frozen:** [stage3-electronics-v1.0](../../docs/stage3-electronics-v1.0.md) and [requirements-v1.2](../../docs/requirements-v1.2.md) (CR-05, R-37, P-3).
-- **Carried to Stage 4/5** (from the frozen file's "Remaining open items"):
-  1. Bench-measure pod, GNSS hot-start and sleep currents.
-  2. 3D layout of the Ø30 pod boards (fit in Ø34 × 60 mm).
-  3. Stage 4 costed BOM against CR-05; top-cap feedthrough detail (P-1) into the CAD and tests T2b/T2c.
-  4. Confirm MTC assumptions 8–10 and CR-05.
+A separate pitch chat later cross-checked our summary of this stage against
+the frozen files and caught two wrong claims before the pitch: the airtime
+share (0.38 % of total time is 38 % of the 1 % legal limit, not "<0.4 % of the
+limit") and the flag count (22 defined flags, not 24).
