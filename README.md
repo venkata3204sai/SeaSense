@@ -135,7 +135,8 @@ To change the design, edit the parameters at the top of `cad/seasense_parts.py` 
 
 | Name | Role | Contribution | Contact |
 |---|---|---|---|
-| `<name>` | `<role>` | `<what you did>` | `<email / LinkedIn>` |
-| `<name>` | `<role>` | `<what you did>` | `<email / LinkedIn>` |
-| `<name>` | `<role>` | `<what you did>` | `<email / LinkedIn>` |
-| `<name>` | `<role>` | `<what you did>` | `<email / LinkedIn>` |
+| Chandra Venkata Sai Sarika | Team lead, prompt engineer & presenter | Problem selection, Claude project setup, all stage prompts, freeze decisions, final pitch | chsa25@student.bth.se |
+| Varshini Krishna Kala Ramanujam | Response reviewer | Reviewed AI outputs, checked calculations, drafted follow-up prompts | vara25@student.bth.se |
+| Murli Mohan Sarika | Response reviewer | Reviewed CAD and stability outputs, found issues for follow-up prompts | musr25@student.bth.se |
+| Sai Dheeraj Reddy Yerragundu | Verification & assumptions | Checked assumptions, cost reference, requirement traceability | saye25@student.bth.se |
+| Pushpak Samuel Kumar Pedapati | Documentation & pitch deck | Process log, GitHub repo, pitch deck and speaker notes | pupe25@student.bth.se |
